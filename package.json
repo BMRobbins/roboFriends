@@ -1,0 +1,22 @@
+{
+  "name": "robofriends",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+<<<<<<< HEAD
+    "react-scripts": "1.1.1",
+    "tachyons": "^4.9.1"
+=======
+    "react-scripts": "1.0.17",
+    "tachyons": "^4.9.0"
+>>>>>>> 90c04619523348641e276e265f3e43a7d4590622
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
